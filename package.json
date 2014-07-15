@@ -1,0 +1,30 @@
+{
+  "name": "benangmerah-driver-mp3ei",
+  "version": "0.0.1",
+  "private": true,
+  "description": "BenangMerah driver for MP3EI projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benangmerah/mp3ei-ld.git"
+  },
+  "keywords": [
+    "benangmerah"
+  ],
+  "author": "Andhika Nugraha (andhika.nugraha@outlook.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benangmerah/mp3ei-ld/issues"
+  },
+  "homepage": "https://github.com/benangmerah/mp3ei-ld",
+  "dependencies": {
+    "async": "^0.9.0",
+    "benangmerah-driver-base": "benangmerah/driver-base",
+    "lodash": "^2.4.1",
+    "request": "^2.37.0",
+    "underscore.string": "^2.3.3"
+  }
+}
